@@ -53,7 +53,7 @@ Este proyecto imita un **portfolio visual** que presenta diferentes imágenes en
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone (https://github.com/Analucena53/modeloPortfolio.git)
+   git clone https://github.com/Analucena53/modeloPortfolio.git
 
 2. Abre el archivo index.html en tu navegador preferido para ver la réplica del portfolio.
 
